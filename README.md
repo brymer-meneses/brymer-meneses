@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brymer-meneses&hide=jupyter%20notebook)](https://github.com/brymer-meneses/brymer-meneses)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brymer-meneses&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brymer-meneses&hide=jupyter%20notebook&theme=graywhite)](https://github.com/brymer-meneses/brymer-meneses)
 
 <!--
 **brymer-meneses/brymer-meneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
