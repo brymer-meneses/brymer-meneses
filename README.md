@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brymer-meneses&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brymer-meneses&show_icons=true&theme=graywhite)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brymer-meneses&hide=jupyter%20notebook&theme=graywhite)](https://github.com/brymer-meneses/brymer-meneses)
 
